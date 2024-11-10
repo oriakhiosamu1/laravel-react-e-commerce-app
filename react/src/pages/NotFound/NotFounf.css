@@ -1,0 +1,17 @@
+h1{
+    color: white;
+    font-weight: bold;
+}
+
+.not-found-return-div{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.link{
+    background-color: white;
+    padding: 15px 40px;
+    border-radius: 10px;
+    color: rgb(88, 56, 250);
+    font-weight: bold
+}
